@@ -52,7 +52,7 @@ systemctl start sddm
 # nmcli dev wifi connect имя_точки password пароль
 # network-manager-applet xdg-user-dirs
 ##Или Wi-fi
-iwctl
+#iwctl
 
 #Если не знаете название вашего устройства, то пишем:
 #ip link
